@@ -1,10 +1,6 @@
 <div align=" center">
     <h1>
-    <img src="![image](https://github.com/ourdavid/VisualG/assets/74691787/934046e3-65be-4e3b-8d77-417ee14afcb6)
-" height = 20px> 
     VisualG 
-    <img src="![image](https://github.com/ourdavid/VisualG/assets/74691787/60a41f34-b1b7-434e-9f98-f50aac128295)
- = 20px>
     </h1>
 </div>
 
