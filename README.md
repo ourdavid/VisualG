@@ -15,11 +15,11 @@
 **Clicando em cada nome** Irá levar a pasta onde está o conteúdo de cada tópico..
 
 - [Introdução à progamação.](https://github.com/ourdavid/VisualG)
-- [Estrutura Sequencial](https://github.com/ourdavid/VisualG/tree/master/Estruturas%20Sequencial)
+- [Estrutura Sequencial](https://github.com/ourdavid/VisualG/tree/master/VisualG/Estruturas%20Sequencial)
 - [Estrutura Condicional](https://github.com/ourdavid/VisualG)
-- [Estrutura Repetitivas](https://github.com/ourdavid/VisualG)
-- [Vetores](https://github.com/ourdavid/VisualG) 
-- [Matrizes](https://github.com/ourdavid/VisualG)
+- [Estrutura Repetitivas](https://github.com/ourdavid/VisualG/tree/master/VisualG/Estruturas%20Repetitivas)
+- [Vetores](https://github.com/ourdavid/VisualG/tree/master/VisualG/Matrizes) 
+- [Matrizes](https://github.com/ourdavid/VisualG/tree/master/VisualG/Matrizes)
 
 ## 💻Tecnologias
 
