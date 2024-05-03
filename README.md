@@ -32,6 +32,6 @@
 
 - [Udemy](https://www.udemy.com/share/102erG3@BtA58UqlZ0Lh-l552e_6XcfPMywokiwfLGYEQyB1quwtRYBL0ilO_jNz2LAPN2NB/)
 
-- **OBSERVAÇÃO:  Pode escolher o VisualG ou Portugol para aprender os dois são iguais.**
+- **OBSERVAÇÃO:  Pode escolher o VisualG ou Portugol para aprender os dois são iguais com suas avarias.**
 
 
